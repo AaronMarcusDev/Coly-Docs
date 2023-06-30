@@ -1,2 +1,8 @@
-# Coly-Docs
-The official documentation website for Coly
+# Coly
+Welcome to the Coly wiki!
+```css
+"Hello, Coly!" puts
+```
+Here you can find all the necessary information about Coly.
+
+next: [datatypes]()\
