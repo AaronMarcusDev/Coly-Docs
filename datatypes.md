@@ -13,5 +13,5 @@
 - Negative integers and floats must be written with no whitespace between the `-` and the number.
 - Floats must be written with no whitespace between the `.` and the numbers on both sides.
 
-previous: [Home](/)
-next: [Nothing yet](/)
+previous: [Home](/)\
+next: [Operators](operators.md)

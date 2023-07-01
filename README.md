@@ -5,4 +5,4 @@ Welcome to the Coly wiki!
 ```
 Here you can find all the necessary information about Coly.
 
-next: [datatypes]()\
+next: [datatypes](datatypes.md)
