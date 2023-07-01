@@ -1,5 +1,7 @@
 # Datatypes
 
+Coly has 4 datatypes: `string`, `int`, `float`, and `bool`.
+
 | Datatype | Description | Example |
 | --- | --- | --- |
 | `string` | string | `"Hello, world!"` |
@@ -13,5 +15,5 @@
 - Negative integers and floats must be written with no whitespace between the `-` and the number.
 - Floats must be written with no whitespace between the `.` and the numbers on both sides.
 
-previous: [Home](/)\
-next: [Operators](operators.md)
+next: [Operators](operators.md)\
+previous: [Home](/)

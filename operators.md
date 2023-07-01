@@ -1,5 +1,10 @@
 # Operators
 
+Coly has different operators for integers and floats.
+In order to add an integer and a float, you must convert the integer to a float or the float to an integer.
+
+The modulo operator (`%`) is only for integers.
+
 | Operator | Function | Values |
 | --- | --- | --- |
 | `+` | Addition | `int` + `int` |
