@@ -1,3 +1,6 @@
 * [Home](/)
 * [Datatypes](datatypes.md)
 * [Operators](operators.md)
+* [Macros](macros.md)
+* * [Defining a macro](macros.md#defining-a-macro)
+* * [Using a macro](macros.md#using-a-macro)

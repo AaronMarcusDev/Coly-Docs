@@ -17,4 +17,5 @@ The modulo operator (`%`) is only for integers.
 | `*.` | Multiplication | `float` * `float` |
 | `/.` | Division | `float` / `float` |
 
-previous: [Datatypes](datatypes.md)
+Next: [Macros](macros.md)\
+Previous: [Datatypes](datatypes.md)

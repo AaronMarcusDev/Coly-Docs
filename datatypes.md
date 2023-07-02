@@ -15,5 +15,5 @@ Coly has 4 datatypes: `string`, `int`, `float`, and `bool`.
 - Negative integers and floats must be written with no whitespace between the `-` and the number.
 - Floats must be written with no whitespace between the `.` and the numbers on both sides.
 
-next: [Operators](operators.md)\
-previous: [Home](/)
+Next: [Operators](operators.md)\
+Previous: [Home](/)
