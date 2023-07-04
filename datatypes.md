@@ -16,4 +16,4 @@ Coly has 4 datatypes: `string`, `int`, `float`, and `bool`.
 - Floats must be written with no whitespace between the `.` and the numbers on both sides.
 
 Next: [Operators](operators.md)\
-Previous: [Home](/)
+Previous: [Comments](comments.md)

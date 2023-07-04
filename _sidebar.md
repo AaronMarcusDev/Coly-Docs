@@ -1,4 +1,7 @@
 * [Home](/)
+* [Comments](comments.md)
+* * [Single line comments](comments.md#single-line-comments)
+* * [Multi line comments](comments.md#multi-line-comments)
 * [Datatypes](datatypes.md)
 * [Operators](operators.md)
 * [Macros](macros.md)
